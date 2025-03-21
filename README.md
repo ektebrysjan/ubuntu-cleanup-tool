@@ -17,7 +17,7 @@ An interactive bash script for cleaning up and maintaining Ubuntu servers by rem
 
 ## Requirements
 
-- Ubuntu Server (tested on Ubuntu 18.04, 20.04, 22.04)
+- Ubuntu Server (tested on Ubuntu 24.04.2 LT)
 - Bash shell
 - Root privileges (sudo)
 
