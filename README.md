@@ -31,7 +31,7 @@ git clone https://github.com/username/ubuntu-server-cleanup.git
 cd ubuntu-server-cleanup
 
 # Make the script executable
-chmod +x ubuntu-cleanup.sh
+chmod +x cleanup.sh
 ```
 
 ## Usage
@@ -39,7 +39,7 @@ chmod +x ubuntu-cleanup.sh
 Run the script:
 
 ```bash
-./ubuntu-cleanup.sh
+./cleanup.sh
 ```
 
 The main menu provides options to:
