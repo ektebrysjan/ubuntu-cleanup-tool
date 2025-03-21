@@ -25,7 +25,7 @@ An interactive bash script for cleaning up and maintaining Ubuntu servers by rem
 
 ```bash
 # Clone this repository
-git clone https://github.com/username/ubuntu-server-cleanup.git
+git clone https://github.com/ektebrysjan/ubuntu-server-cleanup.git
 
 # Enter directory
 cd ubuntu-server-cleanup
